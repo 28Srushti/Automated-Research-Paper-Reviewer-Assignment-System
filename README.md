@@ -11,13 +11,13 @@ This project is a Flask-based web application that automates the reviewer assign
   🖥️ Admin dashboard to view uploaded papers and reviewer details
 
 ## 🗃 File Structure
-├── app.py               # Main application for file upload & matching
-├── login.py             # Handles user login and dashboard
-├── module.py            # Utility functions for keyword extraction, matching, email
-├── templates/
-│   ├── index.html       # Homepage for uploads
-│   ├── login.html       # Login interface
-│   └── admin_dashboard.html # Admin panel
+    ├── app.py              
+    ├── login.py             
+    ├── module.py           
+    ├── templates/
+    │   ├── index.html       
+    │   ├── login.html       
+    │   └── admin_dashboard.html 
 
 ## ⚙️ Installation
   1. Clone the repository:
